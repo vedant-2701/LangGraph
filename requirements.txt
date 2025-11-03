@@ -1,0 +1,10 @@
+typing
+langgraph
+ipykernel
+ipython
+langgraph-community
+langgraph-chroma
+langchain[google-genai]
+langchain_text_splitters
+pypdf
+langchain-core
